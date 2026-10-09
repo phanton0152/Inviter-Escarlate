@@ -2,6 +2,6 @@
 ## Title: Inviter Escarlate
 ## Notes: Organizador de invites para dungeon/raid com auto-invite por palavra-chave na guild.
 ## Version: 1.39
-## SavedVariables: InviterEscarlateDB, FantuInviterDB
+## SavedVariables: InviterEscarlateDB
 
 InviterEscarlate.lua
